@@ -14,14 +14,14 @@
   box-shadow: 1px 1px 5px rgba(0,0,0,0.1);
 }
 
-.login-clean .illustration {
+.material-form {
   text-align: center;
   padding: 0 0 20px;
   font-size: 100px;
   color: rgb(244,71,107);
 }
 
-.login-clean form .form-control {
+.material-form {
   background: #f7f9fc;
   border: none;
   border-bottom: 1px solid #dfe7f1;
@@ -33,7 +33,7 @@
   height: 42px;
 }
 
-.login-clean form .btn-primary {
+.material-form {
   background: #f4476b;
   border: none;
   border-radius: 4px;
@@ -52,7 +52,7 @@
   transform: translateY(1px);
 }
 
-.login-clean form .forgot {
+.material-form {
   display: block;
   text-align: center;
   font-size: 12px;
@@ -61,7 +61,7 @@
   text-decoration: none;
 }
 
-.login-clean form .forgot:hover, .login-clean form .forgot:active {
+.material-form {
   opacity: 1;
   text-decoration: none;
 }
