@@ -1,10 +1,10 @@
-.login-clean {
+.material-form {
   background: #f1f7fc;
   padding: 80px 0;
 }
 
-.login-clean form {
-  max-width: 320px;
+.material-form {
+  max-width: 820px;
   width: 90%;
   margin: 0 auto;
   background-color: #ffffff;
